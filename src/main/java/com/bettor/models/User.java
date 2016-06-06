@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
  * The Entity annotation indicates that this class is a JPA entity.
  * The Table annotation specifies the name for the table in the db.
  *
- * @author netgloo
+ * @author marian
  */
 @Entity
 @Table(name = "users")
